@@ -7,5 +7,5 @@ Me chamo Gabriel Cardoso Alvares de Oliveira, tenho 19 anos de idade, sou natura
 Gosto muito da área de programação, gosto de aprender linguagens novas e adquirir conhecimento na área de tecnologia.
 
 <a href="https://instagram.com/cardosog.a.o">
-  <img src="https://img.shields.io/badge/@seu__usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/@cardosog.a.o-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
