@@ -25,7 +25,6 @@ Gosto muito da área de programação, gosto de aprender linguagens novas e adqu
 
   <img 
     align ="left"
-    style ="padding-left : 5px;"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardoso-G-Ao&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" height="195" width="auto" />
   &nbsp;&nbsp;
   <img 
