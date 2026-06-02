@@ -22,4 +22,8 @@ Gosto muito da área de programação, gosto de aprender linguagens novas e adqu
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardoso-G-Ao&show_icons=true&theme=radical" alt="Minhas Estatísticas do GitHub" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardoso-G-Ao&show_icons=true&theme=radical" height="195" alt="Minhas Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cardoso-G-Ao&layout=compact&theme=radical" height="195" alt="Linguagens mais usadas" />
+</p>
