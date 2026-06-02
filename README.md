@@ -3,7 +3,7 @@
 **`Estudante de Ciência da Computação`**
 
 
-Me chamo Gabriel Cardoso Alvares de Oliveira, tenho 19 anos de idade, sou natural de Minas Gerais, e concluí o ensino médio em 2021, aos meus 18 anos, no colégio técnico de informática Cotemig em Belo Horizonte. Atualmente, estou cursando Ciência da Computação na PUC Minas.
+Me chamo Gabriel Cardoso Alvares de Oliveira, tenho 19 anos de idade (2026), sou natural de Minas Gerais, e concluí o ensino médio em 2025, aos meus 18 anos, no colégio técnico de informática Cotemig em Belo Horizonte. Atualmente, estou cursando Ciência da Computação na PUC Minas.
 Gosto muito da área de programação, gosto de aprender linguagens novas e adquirir conhecimento na área de tecnologia.
 
 <a href="https://instagram.com/cardosog.a.o">
