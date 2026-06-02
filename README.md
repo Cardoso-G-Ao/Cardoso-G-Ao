@@ -19,3 +19,7 @@ Gosto muito da área de programação, gosto de aprender linguagens novas e adqu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
 </p>
+
+## 📊 Estatísticas
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardoso-G-Ao&show_icons=true&theme=radical" alt="Minhas Estatísticas do GitHub" />
