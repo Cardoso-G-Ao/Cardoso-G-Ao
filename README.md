@@ -16,7 +16,7 @@
   </a>
   <img src="https://img.shields.io/badge/PUC%20Minas-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-0b3d91?style=for-the-badge" alt="PUC Minas" />
   <img src="https://img.shields.io/badge/Minas%20Gerais-Brasil-009c3b?style=for-the-badge" alt="Minas Gerais" />
-  <img src="https://komarev.com/ghpvc/?username=Cardoso-G-Ao&label=Visitas&color=fe428e&style=for-the-badge" alt="Visitas ao perfil" />
+  <img src="https://hits.sh/github.com/Cardoso-G-Ao.svg?style=for-the-badge&label=Visitas&color=fe428e&labelColor=141321" alt="Visitas ao perfil" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="" />
