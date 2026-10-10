@@ -19,7 +19,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # gera as duas versões da imagem (clara e escura)
+      # baixa o repositório (precisa do script que gera os cards)
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      # gera os cards de estatísticas, linguagens e sequência (stats.svg, langs.svg, streak.svg)
+      - name: Gerar os cards de estatísticas
+        run: python .github/scripts/gerar_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+          SAIDA: dist
+
+      # gera as duas versões da imagem da cobrinha (clara e escura)
       - name: Gerar o SVG da cobrinha
         uses: Platane/snk/svg-only@v3
         with:
@@ -28,7 +40,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # publica as imagens na branch "output"
+      # publica tudo (cards + cobrinha) na branch "output"
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
